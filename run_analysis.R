@@ -57,7 +57,7 @@ averages <- averages[order(averages[,1], averages[,2]),]
 
 names(averages)[c(1,2)] <- c("Activity", "Subject")
 
-
+write.table(averages, "Tidy data", row.names = FALSE)
 
 
 
