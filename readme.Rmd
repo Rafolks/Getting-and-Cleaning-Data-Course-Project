@@ -1,7 +1,6 @@
----
-title: "Getting and Cleaning Data - Course Project"
-output: html_document
----
+
+# Getting and Cleaning Data - Course Project
+
 
 This is the course project for the "Getting and Cleaning Data" course made available by Coursera and Johns Hopkins.
 
